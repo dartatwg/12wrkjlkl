@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+header{
+
+background-color: blue;
+border-radius : 10px;
+}
+header img{
+border: blue;
+}
+ h1{
+ color: brown;
+    
+}
+footer{
+background-color: blue; 
+color: aqua;   
+}
